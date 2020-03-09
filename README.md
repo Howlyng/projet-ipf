@@ -2,7 +2,7 @@
 Projet de camel du module d'IPF.
 
 # Technologie utilisée
-Caml.
+OCaml.
 
 # Sujet du projet
 
